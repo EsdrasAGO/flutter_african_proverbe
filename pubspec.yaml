@@ -1,7 +1,8 @@
 name: african_proverbs
-description: A new Flutter package project.
+description: Return random african proverbe
 version: 0.0.1
-homepage:
+author: Esdras AGO
+homepage:  https://github.com/EsdrasAGO/flutter_african_proverbe
 
 environment:
   sdk: ">=2.17.1 <3.0.0"
